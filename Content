@@ -1,0 +1,21 @@
+Bourne Shell:
+#!/bin/sh
+ echo hello, world
+
+Shell Script:
+echo Hello World
+
+SQL
+SELECT 'Hello World!';
+
+HTML
+Hello World
+
+Javascript Pop up:
+alert("Hello, World");
+
+PHP
+<?="Hello World"?>
+
+Python
+print "hello world"
